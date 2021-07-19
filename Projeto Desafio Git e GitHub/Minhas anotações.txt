@@ -1,0 +1,30 @@
+Anotações do Projeto
+
+Esse Desafio do Git/GitHub serve para relembrar alguns conceitos e permitir que haja uma organização dos estudos em uma pasta para que seja sempre reorganizada e incrementada a medida que surjam novas anotações.
+
+Para iniciar com essa proposta vou compartilhar sobre meu último curso concluído na DIO. 
+
+Anotações sobre o último Curso que eu fiz:
+Estrutura de Dados em Java - Instrutor -  João Dutra
+
+Bibliografia recomendada e utilizada no Curso:
+Livro - Lógica de Programação e Estrutura de Dados
+Autores: Sandra Puga e Gerson Risseti
+
+Conceitos:
+O bit;
+Organizar dados em memória;
+Mecanismos de organização de dados que atendem diferentes requisitos de processamento.
+
+Conceito de Memória - Atribuição e Referência em Java - Conceito de nó e Encadeamento de nó. 
+Generics;
+Pilhas;
+Filas;
+Listas Encadeadas;
+Listas Duplamente Encadeadas;
+Listas Circulares;
+Árvores - Árvores de busca binária;
+A interface Comparable.
+
+ Importante lembrar de sempre que surgir uma dúvida em relação às estruturas de dados, saber que é possível fazer um teste de mesa, ou seja, desenhar à mão a posição dos vetores para que a ideia que é mais abstrata possa fazer mais sentido no entedimento.
+
